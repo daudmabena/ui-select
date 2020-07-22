@@ -1,7 +1,7 @@
 {
   "name": "ui-select",
   "devDependencies": {
-    "bower": "~1.3",
+    "bower": "~1.8",
     "grunt": "~0.4",
     "grunt-contrib-clean": "~0.4",
     "grunt-contrib-concat": "~0.1",
